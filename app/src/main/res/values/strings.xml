@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="default_city">City Name</string>
+</resources>
